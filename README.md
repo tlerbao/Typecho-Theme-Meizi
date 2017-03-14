@@ -10,7 +10,7 @@
 
 ### 主题预览
 
-![index.png][1]
+![](https://omqzo6zr6.qnssl.com/2017/03/1892646422.png)
 
 ### 主题安装
 
@@ -25,10 +25,14 @@
 
 ### TODO
 
-[x] 评论功能
-[x] 集成缩略图插件
+- [ ] 评论功能
+- [ ] 集成缩略图插件
 
-[1]: https://omqzo6zr6.qnssl.com/2017/03/1892646422.png
+### 作者博客
+
+[miaoqiang.name](miaoqiang.name/archives/typecho-theme-meizi.html)
+
+
 
 
 
