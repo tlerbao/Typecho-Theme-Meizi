@@ -8,10 +8,6 @@
 - 响应式设计
 - 支持社交图标
 
-### 主题预览
-
-![](https://omqzo6zr6.qnssl.com/2017/03/1892646422.png)
-
 ### 主题安装
 
 将主题文件夹改名为 meizi ，放置到 typecho 的 \usr\themes\ 目录下，并后台开启主题
@@ -30,7 +26,7 @@
 
 ### 作者博客
 
-[miaoqiang.name](miaoqiang.name/archives/typecho-theme-meizi.html)
+[miaoqiang.name](https://miaoqiang.name/archives/typecho-theme-meizi.html)
 
 
 
