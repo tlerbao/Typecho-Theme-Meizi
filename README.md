@@ -23,7 +23,10 @@
 
 - [ ] 评论功能
 - [ ] 集成缩略图插件
-
+- [ ] 归档页面模板
+- [ ] 标签页面模板
+- [ ] 分类页面模板
+ 
 ### 作者博客
 
 [miaoqiang.name](https://miaoqiang.name/archives/typecho-theme-meizi.html)
